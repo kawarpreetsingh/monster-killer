@@ -1,2 +1,2 @@
 # monster-killer
-A basic monster killer using vanila JS.
+A basic monster killer using vanilla JS.
